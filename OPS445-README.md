@@ -6,4 +6,5 @@
 Welcome to my git profile
 
 My name is Tuan Huy Tran and I currently taking OPS445 for my 4 semesters. I love playing videos game and sport as well
+Welcome to my github.
 
